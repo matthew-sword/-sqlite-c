@@ -1,0 +1,3 @@
+F:/coding/sqlite+C/cmake-build-debug/CMakeFiles/sqlite_C.dir
+F:/coding/sqlite+C/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/coding/sqlite+C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
